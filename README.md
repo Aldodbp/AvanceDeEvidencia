@@ -4,7 +4,7 @@ Repositorio: [(https://github.com/Aldodbp/AvanceDeEvidencia)
 
 Para ejecutar el programa en formato FAT JAR, es necesario situar el archivo en la terminal Git BASH.
 Luego, se debe ejecutar el comando:
-java -jar CitasConsultorio.jar
+java AvanceDeEvidencia
 # Uso del programa
 Permite registrar nuevos doctores.
 Registrar nuevos pacientes.
@@ -16,5 +16,6 @@ Desarrollado por el estudiante:
 Aldo Daniel Barragán Padilla
 # Licencia
 El programa y su código son de uso libre para cualquier estudiante que curse la materia Programación en JAVA.
+
 
 
